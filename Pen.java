@@ -23,5 +23,5 @@ public abstract class Pen {
 		return price;
 	}
 	public abstract void write();
-	//
+	
 }
