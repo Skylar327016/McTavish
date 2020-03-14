@@ -26,7 +26,7 @@ public abstract class Pen {
 
 	public void battle(){
 		System.out.print("去吧！傑尼龜");
-	
+		System.out.print("去吧！小火龍");
 		System.out.print("去吧！妙蛙種子");
 	}
 
