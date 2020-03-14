@@ -23,5 +23,9 @@ public abstract class Pen {
 		return price;
 	}
 	public abstract void write();
+
+	public void battle(){
+		System.out.print("去吧！傑尼龜");
+	}
 	
 }
